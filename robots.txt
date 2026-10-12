@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /DADA-Consultancy/
+Disallow: /DADA-Consultancy/api/
+Disallow: /DADA-Consultancy/resumes/
+
+Sitemap: https://andryandurai.github.io/DADA-Consultancy/sitemap.xml
