@@ -1,7 +1,7 @@
 :HL["/DADA-Consultancy/_next/static/media/13971731025ec697-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/DADA-Consultancy/_next/static/media/36966cca54120369-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/DADA-Consultancy/_next/static/css/0d77b83e6db7cdcf.css","style"]
+:HL["/DADA-Consultancy/_next/static/css/cbf9c4ce3f6005c5.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"ss-builders","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"work","h":131168,"c":"$Q2"}]]
-0:{"b":"JrcGcyGiLz92e3fF3sHWk","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"T7xo8-2Va0U78MjF87fgI","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
